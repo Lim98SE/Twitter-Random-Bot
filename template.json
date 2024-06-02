@@ -1,0 +1,28 @@
+{
+"CONSUMER_KEY": "a",
+"CONSUMER_SECRET": "b",
+"BEARER": "c",
+"ACCESS": "d",
+"ACCESS_SECRET": "e",
+"COLORS": [
+["#EAEBED", "#006989"],
+["#F1DEDE", "#BBACC1"],
+["#3A405A", "#F9DEC9"],
+["#FFF8F0", "#9E2B25"],
+["#001011", "#758BFD"],
+["#50514F", "#BCB8B1"],
+["#8BE8CB", "#303633"],
+["#E6E6E6", "#FF8552"],
+["#39393A", "#FF8552"]
+],
+"FONT_PATH": "JetBrainsMono-Bold.ttf",
+"FONT_SIZE": 512,
+"SMALL_FONT_SIZE": 64,
+"PADDING": 64,
+"HEIGHT": 810,
+"BOTTOM_TEXT": "actually random letters every 10 minutes",
+"CHAR_POOL": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+"MAX_LENGTH": 8,
+"MIN_LENGTH": 3,
+"TIME_BETWEEN_TWEETS": 600
+}
